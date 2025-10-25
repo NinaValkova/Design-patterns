@@ -1,0 +1,12 @@
+Gamma Categorization - design patterns are split into three categories
+
+Creational patterns
+- deal with the creation(construction) of objects
+- Explicit(constructor) or implicit(DI - dependency injection framework, reflection, etc.)
+
+Structural patterns
+- concerned with the structure
+- many patterns are wrappers, good API design that makes objects usable
+
+Behavioral patterns
+- they are all different; they solve a particular problem, they solve it in a particular way
